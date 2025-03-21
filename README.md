@@ -52,6 +52,7 @@ DB_HOST=your_database_host
 DB_USER=your_database_user
 DB_PASSWORD=your_database_password
 DB_NAME=your_database_name
+WS_URL=web_socket_link
 ```
 
 4. Set up the database
